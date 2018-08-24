@@ -10,7 +10,7 @@ Add this repo as an external repository into your ``local.conf`` file::
     [[local|localrc]]
     enable_plugin magnum-ui https://github.com/openstack/magnum-ui
 
-Manual Installation
+Manual Installationa
 -------------------
 
 Begin by cloning the Horizon and Magnum UI repositories::
